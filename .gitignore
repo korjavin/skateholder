@@ -1,0 +1,9 @@
+.DS_Store
+*.blend1
+measure.png
+stl/toggle.stl
+stl/V1_*
+stl/V2_*
+renders/toggle_*
+renders/v1_*
+renders/v2_*
