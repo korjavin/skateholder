@@ -5,7 +5,7 @@ On Thingiverse: https://www.thingiverse.com/thing:7415314 · Source: https://git
 Snap-in clip that lives on a carry strap and clicks into the arch-shaped hole at the nose/tail of a
 drop-through longboard (made for a Decathlon/Oxelo drop-through deck). Print two, one per end.
 
-Current version: `stl/snap_clip_v4.stl`.
+Current version: `stl/snap_clip_v4.stl`. Photos of the deck/hole: `photos/`.
 
 ## How it works
 
